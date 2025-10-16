@@ -1,4 +1,4 @@
-# Clinix Sphere - Doctor-Patient Appointment & Digital Prescription System
+# Doctor-Patient Appointment & Digital Prescription System
 
 A comprehensive healthcare management system with separate interfaces for doctors and patients.
 
